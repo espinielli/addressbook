@@ -1,0 +1,95 @@
+[
+    {
+        "birthday": "21/12/2002",
+        "familyname": "Ber",
+        "givenname": "Sof",
+        "homeaddress": {
+            "city": "Roma",
+            "country": "Italy",
+            "street": "Viale Mazzini, 2",
+            "zip": "00195"
+        },
+        "homephone": "+39 01 3317557",
+        "name": "Sof Ber",
+        "parents": [
+            {
+                "Relationship": "Mother",
+                "familyname": "Bev",
+                "givenname": "Eve",
+                "mobilephone": "+39 333 233472",
+                "name": "Eve Bev",
+                "workphone": "+39 01 1232869"
+            },
+            {
+                "Relationship": "Father",
+                "familyname": "Ber",
+                "givenname": "Mut",
+                "mobilephone": "+39 339 456353",
+                "name": "Mut Ber",
+                "workphone": "1122"
+            }
+        ]
+    },
+    {
+        "birthday": "23/06/2002",
+        "familyname": "Bir",
+        "givenname": "Mar",
+        "homeaddress": {
+            "city": "Roma",
+            "country": "Belgique",
+            "street": "Viale Mazzini, 60",
+            "zip": "00195"
+        },
+        "homephone": "23456",
+        "name": "Mar Bir",
+        "parents": [
+            {
+                "Relationship": "Mother",
+                "familyname": "Buv",
+                "givenname": "Emy",
+                "mobilephone": "+39 323 243474",
+                "name": "Emy Buv",
+                "workphone": "+39 01 1232869"
+            },
+            {
+                "Relationship": "Father",
+                "familyname": "Bir",
+                "givenname": "Zut",
+                "mobilephone": "+39 338 234553",
+                "name": "Zut Bir",
+                "workphone": "4566"
+            }
+        ]
+    },
+    {
+        "birthday": "04/11/2003",
+        "familyname": "Bor",
+        "givenname": "Chi",
+        "homeaddress": {
+            "city": "Milano",
+            "country": "Italy",
+            "street": "Via San Marco, 11",
+            "zip": "20121"
+        },
+        "homephone": "+39 02 789 40 66",
+        "name": "Chi Bor",
+        "parents": [
+            {
+                "Relationship": "Mother",
+                "familyname": "Bor",
+                "givenname": "Nel",
+                "mobilephone": "+39 0333 446231",
+                "name": "Nel Bor",
+                "workphone": "4532"
+            },
+            {
+                "Relationship": "Father",
+                "familyname": "Bor",
+                "givenname": "Eng",
+                "mobilephone": "+39 334 765980",
+                "name": "Eng Bor",
+                "workphone": "11111"
+            }
+        ]
+    }
+]
